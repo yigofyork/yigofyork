@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
+<h1 align="center">Hi 👋, I'm Yiğit Gürbulak</h1>
 <h3 align="center">I'm a software developer. I am interested in blockchain and artificial intelligence.</h3>
 
 </p>
